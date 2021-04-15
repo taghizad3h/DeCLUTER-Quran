@@ -3,7 +3,7 @@
 local transformer_model = "aubmindlab/bert-base-arabertv02";
 
 // This will be used to set the max/min # of tokens in the positive and negative examples.
-local max_length = 512;
+local max_length = 64;
 local min_length = 32;
 
 {
